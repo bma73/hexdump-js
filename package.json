@@ -1,0 +1,24 @@
+{
+    "name": "hexdump-js",
+    "version": "0.1.0",
+    "description": "Hexdump an ArrayBuffer to a String",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bma73/hexdump-js.git"
+    },
+    "homepage": "https://github.com/bma73/hexdump-js",
+    "keywords": [
+        "buffer",
+        "arraybuffer",
+        "dump",
+        "string",
+        "hex"
+    ],
+    "author": {
+        "name": "Bjoern Acker",
+        "email": "me@bjoernacker.de",
+        "url": "http://www.bjoernacker.de"
+    },
+    "license": "MIT"
+}
